@@ -7,11 +7,6 @@ This project demonstrates a simple REST API using Spring Boot for performing CRU
 - [Prerequisites](#prerequisites)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Setting Up the Project](#setting-up-the-project)
-- [API Endpoints](#api-endpoints)
-- [Running the Application](#running-the-application)
-- [Example Requests](#example-requests)
-- [License](#license)
 
 ## Prerequisites
 
