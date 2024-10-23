@@ -31,6 +31,7 @@ Ensure you have the following installed on your system:
 
 ## Project Structure
 
+```
 src/
 ├── main
 │   ├── java
@@ -50,4 +51,4 @@ src/
         └── com
             └── example
                 └── demo
-                    └── SprignDemoApplicationTests.java
+                    └── SprignDemoApplicationTests.java```
