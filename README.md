@@ -31,4 +31,23 @@ Ensure you have the following installed on your system:
 
 ## Project Structure
 
-src/ └── main/ ├── java/ │ └── com.example.topic/ │ ├── Topic.java // Model class for Topic │ ├── TopicController.java // REST Controller to handle API requests │ ├── TopicService.java // Service class for business logic │ └── TopicRepository.java // Repository interface for database interaction └── resources/ └── application.properties // Configuration file for the application
+src/
+├── main
+│   ├── java
+│   │   └── com
+│   │       └── example
+│   │           └── demo
+│   │               ├── HelloController.java
+│   │               ├── SpringDemoApplication.java
+│   │               └── topic
+│   │                   ├── Topic.java
+│   │                   ├── TopicController.java
+│   │                   └── TopicService.java
+│   └── resources
+│       └── application.properties
+└── test
+    └── java
+        └── com
+            └── example
+                └── demo
+                    └── SprignDemoApplicationTests.java
